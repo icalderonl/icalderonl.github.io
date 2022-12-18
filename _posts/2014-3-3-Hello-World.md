@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Página de prueba
 ---
 
 Acá estará el resumen de las clases 7, 8 y 9 de Sistemas Recomendadores MIA 2022
