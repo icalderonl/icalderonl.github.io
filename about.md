@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Alumno del curso de Sistemas Recomendadores 2022.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Ingeniero físico, alumno de MIA y fotógrafo aficionado
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ijcalderon@uc.cl](mailto:ijcalderon@uc.cl)
