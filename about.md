@@ -6,10 +6,10 @@ permalink: /about/
 
 Alumno del curso de Sistemas Recomendadores 2022.
 
-### More Information
+### Otra Info
 
 Ingeniero físico, alumno de MIA y fotógrafo aficionado
 
-### Contact me
+### Contacto
 
 [ijcalderon@uc.cl](mailto:ijcalderon@uc.cl)
